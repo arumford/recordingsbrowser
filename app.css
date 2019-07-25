@@ -1,0 +1,19 @@
+.hidden {
+    display: none;
+}
+
+.icon {
+    margin-right: 5px;
+}
+
+.leftMargin {
+    margin-left: 3px;
+}
+
+.levelUp {
+    margin: 5px 10px 0 10px;
+}
+
+body {
+    font-family: Montserrat;
+}
